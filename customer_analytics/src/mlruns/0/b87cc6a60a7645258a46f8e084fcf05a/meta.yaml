@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/proje2/customer_analytics/src/mlruns/0/b87cc6a60a7645258a46f8e084fcf05a/artifacts
+end_time: 1741712941010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b87cc6a60a7645258a46f8e084fcf05a
+run_name: traveling-elk-118
+run_uuid: b87cc6a60a7645258a46f8e084fcf05a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741712940591
+status: 3
+tags: []
+user_id: User

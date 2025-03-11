@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/proje2/customer_analytics/src/mlruns/0/343febb1059d4d3f9adc920abbf764a1/artifacts
+end_time: 1741713995823
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 343febb1059d4d3f9adc920abbf764a1
+run_name: adaptable-lark-323
+run_uuid: 343febb1059d4d3f9adc920abbf764a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741713995056
+status: 3
+tags: []
+user_id: User

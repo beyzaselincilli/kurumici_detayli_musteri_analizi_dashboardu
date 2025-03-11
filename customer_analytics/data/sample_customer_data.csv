@@ -1,0 +1,16 @@
+customer_id,recency,frequency,monetary,sales,age,gender,location,customer_type
+1,5,20,15000,2500,35,Erkek,Istanbul,Premium
+2,15,8,5000,800,28,Kadın,Ankara,Standard
+3,2,30,25000,4200,42,Erkek,Izmir,Premium
+4,45,3,2000,300,25,Kadın,Istanbul,Basic
+5,7,15,12000,2000,39,Erkek,Ankara,Premium
+6,20,6,4500,750,31,Kadın,Izmir,Standard
+7,1,25,20000,3500,45,Erkek,Istanbul,Premium
+8,30,4,2500,400,29,Kadın,Ankara,Basic
+9,10,12,9000,1500,36,Erkek,Istanbul,Standard
+10,3,18,13500,2250,40,Kadın,Izmir,Premium
+11,25,5,3500,600,27,Erkek,Ankara,Basic
+12,8,14,11000,1800,38,Kadın,Istanbul,Standard
+13,12,10,7500,1250,33,Erkek,Izmir,Standard
+14,4,22,17000,2800,41,Kadın,Ankara,Premium
+15,18,7,4800,800,30,Erkek,Istanbul,Standard 

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/User/Desktop/proje2/customer_analytics/src/mlruns/0/8b40d78ca1bc4f36ad25d66de64dc21b/artifacts
+end_time: 1741713332507
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b40d78ca1bc4f36ad25d66de64dc21b
+run_name: rebellious-worm-722
+run_uuid: 8b40d78ca1bc4f36ad25d66de64dc21b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741713332096
+status: 3
+tags: []
+user_id: User
